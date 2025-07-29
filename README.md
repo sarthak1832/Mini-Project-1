@@ -1,2 +1,2 @@
 # Mini-Project-1
-Snakw-Water-Gun Game Using Python
+Snake-Water-Gun Game Using Python
